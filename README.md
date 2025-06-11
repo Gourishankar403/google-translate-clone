@@ -30,8 +30,8 @@ English, German, French, Spanish, Hindi, Chinese, Japanese, Arabic, Tamil, Telug
 
 Usage:
 
-Enter the text to translate.
-Select the target language from the dropdown.
-Click on "Translate" and see the translated text.
+Enter the text to translate,
+Select the target language from the dropdown and 
+Click on "Translate" to  see the translated text.
 
 
